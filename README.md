@@ -1,4 +1,4 @@
-#ProyectoFinal_IHC
+#royectoFinal_IHC
 Proyecto Final de Interacción Humano-Computadora (IHC)
 
 Este repositorio contiene el desarrollo del proyecto final de la asignatura de IHC, enfocado en implementar una experiencia de usuario optimizada y funcional que cumpla con los principios y mejores prácticas de diseño de interfaces y usabilidad.
